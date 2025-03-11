@@ -115,6 +115,7 @@ ret
 
 ## Programs for logical  operations
 
+```
 org 100h
 
 mov ax,33h
@@ -137,7 +138,7 @@ XOR ax,bx
 mov [5033h],ax
 
 ret
- 
+``` 
 
 ## OUTPUT
 
