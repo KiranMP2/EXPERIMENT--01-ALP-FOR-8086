@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+Name : KIRAN.MP
+Roll no : 212224230123
+Date of experiment : 11-03-2025
 
 
 
